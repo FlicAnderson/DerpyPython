@@ -98,4 +98,5 @@
 
 # remote bits of list by assigning empty list: []
 
-
+#### start at section 3.2 "First steps towards programming"
+# https://docs.plython.org/2.7/tutorial/introduction.html
