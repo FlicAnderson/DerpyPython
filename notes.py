@@ -119,8 +119,10 @@
 # no special characters
 # phrase of at least 2 words: camelCase & snake_case(<-PEP8 standard)
 # variable names will start with a lower case letter unless they're determining a class
-#
-#
 
+# python does indentation to tell it what to do about namespaces and so on.
+# 0 indent is one namespace
+# 4 indent is next namespace & not accessible by other namespace
+#
 
 
