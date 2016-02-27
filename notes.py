@@ -123,6 +123,14 @@
 # python does indentation to tell it what to do about namespaces and so on.
 # 0 indent is one namespace
 # 4 indent is next namespace & not accessible by other namespace
-#
+
+# dictionary is another compound data type, a list is also a compound data type
+# they're both varieties of array
+# list is an unkeyed array (items in it do not have explicit labels, they don't have keys)
+# items in a dictionary is a keyed array
+# items specified with square brackets []
+# dictionary is specified with curly brackets {}
+# can nest them within each other
+
 
 
