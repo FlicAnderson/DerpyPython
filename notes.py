@@ -132,5 +132,25 @@
 # dictionary is specified with curly brackets {}
 # can nest them within each other
 
+# LISTS ARE SORTED, DICTS ARE NOT
+
+#
+# pop vs push
+# push : put something at start
+# pop: to take something to the end
+# stack (something on top, something off top) first in first out
+# queue (something on the end, something off the front) first in last out
 
 
+# ITERATION (loops)
+# for (determined end) & while loops (until whatever expression meets condition)
+# for x in y
+#   do z
+#
+# while x > y
+# do z (x+1)
+#
+
+# SELECTION
+# if statements
+#
