@@ -100,3 +100,27 @@
 
 #### start at section 3.2 "First steps towards programming"
 # https://docs.plython.org/2.7/tutorial/introduction.html
+
+# 27/02/2016
+# strings, numeric, boolean & null
+# boolean logic wise, it's about whether it's evaluated as true or false
+# FALSE= false, none, 0 (any numerical), empty sequence, empty dictionary or anything returning any of those.
+# TRUE= true, not the false things :)
+
+# number types: integer (whole number) or float (floating point number)
+# text types: strings or characters
+# boolean types: true or false
+
+# Python is a dynamically typed language: variables contain data & python can evaluate variables as different things given different contexts.
+
+# lists or array is a sorted list of other variables
+
+# names of variables can't have spaces, can have underscores, can't start with a number
+# no special characters
+# phrase of at least 2 words: camelCase & snake_case(<-PEP8 standard)
+# variable names will start with a lower case letter unless they're determining a class
+#
+#
+
+
+
