@@ -5,10 +5,6 @@ import sys
 # write input from commandline argument to variable
 num_monsters = int(sys.argv[1])
 
-# print num_monsters if there are 0
-#if num_monsters <= 0:
-#    print "Everything is fine - " + str(num_monsters) + " monsters"
-
 if num_monsters >= 1 and num_monsters <= 4:
     monster_vol = "a few"
     print "You have " + monster_vol + " monsters"
